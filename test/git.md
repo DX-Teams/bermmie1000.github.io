@@ -43,11 +43,11 @@ _Last Updated: 2021-01-13_
 
 _효과적인 코드 관리_
 
-<img src = https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png height="100">
+<img src = "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" height="100">
 
 <br>
 
-<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/800px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg height="300">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/800px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg" height="300">
 
 >2005년 리눅스 커널 개발중 Git 개발
 >
@@ -65,7 +65,7 @@ _효과적인 코드 관리_
 
 ### GitLab은 무엇인가요?
 
-<img src=https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png height="200">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" height="200">
 
 GitLab은 2014년 개발된 __웹 기반 Git 저장소 관리자__ 및 __DevOps 수명주기 도구__ 입니다.
 
