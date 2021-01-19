@@ -38,7 +38,7 @@ Slack이나 Trello 같은 서비스에서 메세지를 작성하듯 사용할 �
 
     🍎*자세한 사용법은 누군가 설명*
 
-    ![Marp](./assets/images/markdown/Marp.png)
+    ![Marp](../assets/images/markdown/Marp.png)
 
 1. 공용 CSS 적용 
     🍎*이부분도 누가 업데이트*
@@ -141,7 +141,7 @@ h1 부터 h6까지 제목을 표현할 수 있습니다.
 
 [logo]: https://cdn-cyclingtips.pressidium.com/wp-content/uploads/2013/05/CORVOS_00021296-044.jpg "To go Giro de Italia."
 
-![apple](./assets/images/markdown/apple.png)
+![apple](../assets/images/markdown/apple.png)
 
 <!--Code Emphasis(코드 강조)-->
 #코드(Code) 강조
