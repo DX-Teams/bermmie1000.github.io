@@ -14,11 +14,11 @@ _Last Updated: 2021-01-13_
 ---
 
 ## 개요 🐶
-<img src = https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png height="100">
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" height="100">
 
 <br>
 
-<img src=https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png height="200">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" height="200">
 
 
 ### 숙련도에 따른 단계 분류 🎯
@@ -31,7 +31,7 @@ _Last Updated: 2021-01-13_
 <br>
 
 ### 실습 흐름도
-![gitGraph0](..\assets\images\git\gitGraphStep0.PNG)
+![gitGraph0](../assets/images/git/gitGraphStep0.PNG)
 
 ---
 
@@ -43,11 +43,11 @@ _Last Updated: 2021-01-13_
 
 _효과적인 코드 관리_
 
-<img src = "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" height="100">
+<img sr ="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" height="100">
 
 <br>
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/800px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/800px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg" height="300">
 
 >2005년 리눅스 커널 개발중 Git 개발
 >
