@@ -43,7 +43,7 @@ _Last Updated: 2021-01-13_
 
 _효과적인 코드 관리_
 
-<img sr ="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" height="100">
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" height="100">
 
 <br>
 
