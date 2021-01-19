@@ -15,7 +15,9 @@ _Last Updated: 2021-01-13_
 
 ## 개요 🐶
 <img src = https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png height="100">
+
 <br>
+
 <img src=https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png height="200">
 
 
@@ -42,7 +44,9 @@ _Last Updated: 2021-01-13_
 _효과적인 코드 관리_
 
 <img src = https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png height="100">
+
 <br>
+
 <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/800px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg height="300">
 
 >2005년 리눅스 커널 개발중 Git 개발
@@ -78,6 +82,7 @@ GitLab은 2014년 개발된 __웹 기반 Git 저장소 관리자__ 및 __DevOps 
 
 __실습목표:__
 - GitLab의 remote repository를 local repository에 clone 수행
+
 >1. Git 설치
 >2. 환경 설정
 >3. Clone 수행
@@ -310,6 +315,7 @@ $ git push
 
 __실습 목표:__
 - 새로운 branch로 checkout하여 파일을 수정하고 push한다.
+
 >1. New branch 생성 및 이동
 >2. 파일 수정 및 push
 >3. Master branch에서 New branch 병합
