@@ -31,8 +31,6 @@ _Last Updated: 2021-01-13_
 ### 실습 흐름도
 ![gitGraph0](..\assets\images\git\gitGraphStep0.PNG)
 
-assets\images\git\gitGraphStep0.PNG
-E:\github\bermmie1000.github.io\assets\images\git\gitGraphStep0.PNG
 ---
 
 ## 0 단계
@@ -44,9 +42,9 @@ E:\github\bermmie1000.github.io\assets\images\git\gitGraphStep0.PNG
 _효과적인 코드 관리_
 
 <img src = https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png height="100">
+<br>
+<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/800px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg height="300">
 
-><img src = https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/800px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg height="300">
->
 >2005년 리눅스 커널 개발중 Git 개발
 >
 >- Linus Torvalds (Finland)
@@ -62,6 +60,7 @@ _효과적인 코드 관리_
 >   - 개발자간 편집 내용 충돌 시 알림
 
 ### GitLab은 무엇인가요?
+
 <img src=https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png height="200">
 
 GitLab은 2014년 개발된 __웹 기반 Git 저장소 관리자__ 및 __DevOps 수명주기 도구__ 입니다.
@@ -259,6 +258,7 @@ $ git push
 
 ##### pull
 - branch의 정보를 당겨온다.
+
 ```git
 # 현재 branch pull
 $ git pull
@@ -266,6 +266,7 @@ $ git pull
 # 다른 branch pull할 시 origin을 붙여야 함
 $ git pull origin "branch"
 ```
+
 ![bash-pullremote](../assets/images/git/bash-pullremote.PNG)
 ---
 
@@ -281,6 +282,7 @@ $ git diff "branch"
 
 ##### merge
 - fetch로 알게된 정보를 바탕으로 수동 병합한다.
+
 ```git
 $ git merge "branch"
 ```
@@ -378,6 +380,7 @@ $ git log
 
 #### 2. 과거 버전으로 rollback
 - log에서 확인한 과거 버전 commit 번호를 기반으로 rollback을 수행한다.
+
 ```git
 $ git checkout "commit 8-digit"
 
