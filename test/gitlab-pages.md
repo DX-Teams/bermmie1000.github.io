@@ -21,6 +21,7 @@ sort: 14
 
 ### 프로젝트 환경 설정
 ![create](../assets/images/pages/create-project.png)
+
 - Project name의 형식은 "userName.gitlab.io"으로 작성한다.
     - 나의 경우 __userName__ 은 위 그림 중 오른쪽 상단에 표시된 것 처럼 __@changbum_chun__ 이다.
     - 형식 위반 시 URL이 지저분 해진다.
@@ -28,8 +29,10 @@ sort: 14
     - 우리가 호스팅할 `Pages`와 지금 설정하는 Visibility Level은 별개이다.
     - `GitLab`의 경우 `Pages`의 Accessibility는 생성 완료 후 사이드바 > Settings > General > Visibility, project features, permissions > Pages에서 설정할 수 있다.
     - 하지만 `GitHub`의 경우는 Enterprise 등급부터 Accessibility를 설정할 수 있다.
+
 ### 로컬 환경으로 clone
 ![클론](https://img.sbs.co.kr/newimg/news/20170607/201056067_1280.jpg)
+
 - 생성한 Remote repository를 로컬의 원하는 디렉토리에 clone한다.
 
 ```git
@@ -38,9 +41,11 @@ $ git clone "Repository"
 ```
 
 ![clone](../assets/images/pages/clone.png)
+
 ## 2. `Jekyll` template 적용
 - 이 튜토리얼에선 [Jekyll](http://jekyllrb-ko.github.io)이란 정적 사이트 생성기를 사용하여 웹페이지를 제작한다.
 - 이미 세상엔 `Jekyll`로 만들어진 멋진 템플렛들이 많고 [Jekyll Themes](http://jekyllthemes.org/)에서 둘러볼 수 있다.
+
 ### 템플렛 선택
 ![sphinx-theme](https://user-images.githubusercontent.com/68011645/88376699-87980500-cdd0-11ea-8900-7bab8c811bc9.png)
 
@@ -53,6 +58,7 @@ $ git clone "Repository"
     - 템플렛의 repository를 로컬로 [clone](https://github.com/rundocs/jekyll-rtd-theme)하는 방법
 
 ![folder](../assets/images/pages/folder.png)
+
 - 💡중요한 것은 __템플렛의 내용물을__ 위에서 우리가 생성하고 clone한 __로컬 repository에 위치 시키는 것__ 이다.
 
 ## 3. `Ruby` 환경 설정 💎
@@ -86,7 +92,9 @@ $ ruby -v
 ```console
 $ gem install jekyll bundler
 ```
+
 - 이어서, local repository 디렉토리에서 bundle을 설치한다.
+
 ```console
 $ cd "local repository"
 $ bundle install
@@ -104,6 +112,7 @@ $ bundle install
 
 - `GitLab`의 경우
     - `_config.yml` 파일에서 repository, baseurl, url 세가지를 추가한다.
+
     ```yml
     repository: "userId/userId.gitlab.io"
     baseurl: ""
@@ -111,6 +120,7 @@ $ bundle install
     ```
 - `GitHub`의 경우
     - `_config.yml` 파일에서 baseurl, url 두가지를 추가한다.
+
     ```yml
     baseurl: ""
     url: https://userId.gitlab.io
@@ -122,9 +132,11 @@ $ bundle install
 - `Github`를 사용한다면 건너 뛰어도 되는 내용이다.
 - 사실 왜인지는 자세히 모르겠지만 `GitLab`에서는 CI를 위해 `runner`가 읽고 실행할 `*.yml`파일을 별도로 생성해주어야한다.
 ```
+
 ![yml](../assets/images/pages/yml.png)
 
 - 아래 code block에서 복붙한 `.gitlab-ci.yml` 이름의 파일을 같은 디렉토리 내에 생성한다. [출처](https://gitlab.com/pages/jekyll/-/blob/master/.gitlab-ci.yml)
+
 ```yml {.numberLines}
 image: ruby:latest
 
@@ -168,6 +180,7 @@ pages:
 - 위의 순서를 잘 진행 했다면 Local repository의 변경 사항을 add, commit, push 하면 된다.
 
 ![page-setting](../assets/images/pages/page-setting.png)
+
 - 이후 CI의 pipeline에서 작업이 끝나길 기다린 후(약 3분) Setting의 Pages에서 url를 클릭하면 우리가 만든 웹페이지로 새 창 이동한다.
     - `GitLab`의 경우 pipeline의 작업 진행 상황은 사이드 바의 CI/CD 탭에서 관찰할 수 있다.
 
