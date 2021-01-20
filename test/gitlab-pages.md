@@ -133,7 +133,7 @@ $ bundle install
 - 사실 왜인지는 자세히 모르겠지만 `GitLab`에서는 CI를 위해 `runner`가 읽고 실행할 `*.yml`파일을 별도로 생성해주어야한다.
 ```
 
-![yml](../assets/images/pages/yml.png)
+![yml](../assets/images/pages/gitlab-yml.png)
 
 - 아래 code block에서 복붙한 `.gitlab-ci.yml` 이름의 파일을 같은 디렉토리 내에 생성한다. [출처](https://gitlab.com/pages/jekyll/-/blob/master/.gitlab-ci.yml)
 
