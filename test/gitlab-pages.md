@@ -137,7 +137,7 @@ $ bundle install
 
 - 아래 code block에서 복붙한 `.gitlab-ci.yml` 이름의 파일을 같은 디렉토리 내에 생성한다. [출처](https://gitlab.com/pages/jekyll/-/blob/master/.gitlab-ci.yml)
 
-```yml {.numberLines}
+```yml
 image: ruby:latest
 
 variables:
