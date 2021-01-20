@@ -1,5 +1,5 @@
 ---
-sort: 12
+sort: 1
 ---
 # git 세미나
 _Last Updated: 2021-01-13_
