@@ -3,6 +3,7 @@
 
 # 비전) DX팀 분석파트 🏴‍☠️
 _LS Electric Co.,Ltd._
+
 CIO&CDO / DX / Data Analysis Chapter
 
 ## 세미나 정보
