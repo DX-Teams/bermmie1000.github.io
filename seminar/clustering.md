@@ -1,3 +1,7 @@
+---
+sort: 4
+---
+
 # Unsuperivsed Learning (비지도 학습)
 [출처](http://www.mit.edu/~9.54/fall14/slides/Class13.pdf)
 ## Clustering (군집)
