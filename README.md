@@ -20,9 +20,9 @@ CIO&CDO / DX / Data Analysis Chapter
 |   4   | 2021-03-12 | -                    | Generalization                                          |    현정   |
 |   4   | 2021-03-12 | -                    | -                                                       |    규본   |
 |   5   | 2021-03-26 | -                    | -                                                       |    상은   |
-|   5   | 2021-03-26 | -                    | -                                                       |    두성   |
+|   5   | 2021-03-26 | Math & Statistics    | Machine Learning Linear Regression의 원리 및 증명        |    영민   |
 |   6   | 2021-04-16 | -                    | -                                                       |    헌성   |
-|   6   | 2021-04-16 | Math & Statistics    |  Machine Learning Linear Regression의 원리 및 증명       |    영민   |
+|   6   | 2021-04-16 | -                    | -        |    두성   |
 |   7   | 2021-04-30 | - | -                |    -   |
 |   7   | 2021-04-30 | - | -                |    -   |
 |   8   | 2021-05-14 | - | -                |    -   |
