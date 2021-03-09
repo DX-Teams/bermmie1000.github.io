@@ -17,8 +17,8 @@ CIO&CDO / DX / Data Analysis Chapter
 |   2   | 2021-01-29 | Data Visualization   | Storytelling with Data                                  | 상욱   |
 |   3   | 2021-02-19 | ML Algorithm & Model | 머신러닝 모델 개발- Azure ML(Machine Learning) 사용 사례  | 진   |
 |   3   | 2021-02-19 | Data Visualization   | Fundamentals of Data Visualization                      | 민선   |
-|   4   | 2021-03-12 | -                    | Generalization                                          |    현정   |
-|   4   | 2021-03-12 | -                    | -                                                       |    규본   |
+|   4   | 2021-03-12 | ML Algorithm & Model | Generalization                                          |    현정   |
+|   4   | 2021-03-12 | ML Algorithm & Model | MobileNet: Light Weight CNN                              |    규본   |
 |   5   | 2021-03-26 | -                    | -                                                       |    상은   |
 |   5   | 2021-03-26 | Math & Statistics    | Machine Learning Linear Regression의 원리 및 증명        |    영민   |
 |   6   | 2021-04-16 | -                    | -                                                       |    헌성   |
