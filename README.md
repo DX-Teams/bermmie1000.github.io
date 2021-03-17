@@ -34,7 +34,7 @@ CIO&CDO / DX / Data Analysis Chapter
 |   13   | 2021-06-25 | - | -                |    -   |
 |   13   | 2021-06-25 | - | -                |    -   |
 
-깃 저장소 링크: https://git.lsis.com/dx-team/edu
+_세미나 깃 저장소:_ https://git.lsis.com/dx-team/edu
 
 ### 세미나 범주
 1.	__ML DevOps:__ 툴 사용법, DevOps 관련 세미나  
