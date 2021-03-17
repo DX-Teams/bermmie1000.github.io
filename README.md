@@ -23,7 +23,7 @@ CIO&CDO / DX / Data Analysis Chapter
 |   6   | 2021-04-02 | Math / Statistics    | 누구나 파이썬 통계분석 part 2                           |    영민, 현정, 민선   |
 |   7   | 2021-04-09 | Math / Statistics    | 누구나 파이썬 통계분석 part 3                           |    영민, 현정, 민선   |
 |   8   | 2021-04-15 | Math / Statistics    | 누구나 파이썬 통계분석 part 4                           |    영민, 현정, 민선   |
-|   9   | 2021-04-30 | Math & Statistics    | Machine Learning Linear Regression의 원리 및 증명        |    영민   |
+|   9   | 2021-04-30 | Math / Statistics    | Machine Learning Linear Regression의 원리 및 증명        |    영민   |
 |   9   | 2021-04-30 | -                    | -                                                       |    상은   |
 |   10   | 2021-05-14 | -                    | -                                                       |    헌성   |
 |   10   | 2021-05-14 | -                    | -        |    두성   |
@@ -33,6 +33,8 @@ CIO&CDO / DX / Data Analysis Chapter
 |   12   | 2021-06-11 | - | -                |    -   |
 |   13   | 2021-06-25 | - | -                |    -   |
 |   13   | 2021-06-25 | - | -                |    -   |
+
+깃 저장소 링크: https://git.lsis.com/dx-team/edu
 
 ### 세미나 범주
 1.	__ML DevOps:__ 툴 사용법, DevOps 관련 세미나  
